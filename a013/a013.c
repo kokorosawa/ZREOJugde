@@ -4,7 +4,8 @@
 #include <stdlib.h>
 int roman(char in[]);
 int main()
-{
+{   
+    //把要反向減的羅馬數字分別列出
     char s1[100], s2[100];
     while (scanf("%s", s1) != EOF)
     {
