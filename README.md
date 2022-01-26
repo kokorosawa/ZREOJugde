@@ -1,2 +1,2 @@
 # ZREOJugde
-zreojudge題目練習
+ZREOjudge題目練習
